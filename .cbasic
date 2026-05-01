@@ -1,0 +1,37 @@
+#include<stdio.h>
+//for single line
+
+/*
+for double line
+/*
+
+output
+for integers
+int main(){
+int age=30;
+printf("age is %d\n",age);
+
+for decimal
+inat main(){
+float pie =3.14;
+printf("pie is %f\n",pie);
+
+}
+
+for character
+int main()
+char star ='*';
+printf("star is %c\n",star);
+
+
+
+float pie=3.14;
+char hashtag='#';
+
+
+
+
+
+return 0;
+
+}
